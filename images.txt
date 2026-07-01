@@ -1,1 +1,1 @@
-voipmonitor/vllm:eldritch-enlightenment-v56fb5d8-b12x284a2ea-cu132-20260628
+voipmonitor/vllm:eldritch-enlightenment-v8722ac7-b12x8ce61f9-cu132-20260629
