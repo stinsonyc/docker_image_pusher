@@ -1,2 +1,3 @@
 voipmonitor/vllm:eldritch-enlightenment-v8722ac7-b12x8ce61f9-cu132-20260629
 lmsysorg/sglang:glm-5.3-flash
+docker.litellm.ai/berriai/litellm-database
