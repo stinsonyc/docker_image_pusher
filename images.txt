@@ -1,1 +1,1 @@
-docker.litellm.ai/berriai/litellm-database
+voipmonitor/vllm:jovian-judgement-community-20260906-r27
