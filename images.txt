@@ -1,1 +1,1 @@
-voipmonitor/vllm:jovian-judgement-community-20260906-r27
+lmsysorg/sglang-rocm:qwen38flashnext
