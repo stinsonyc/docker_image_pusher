@@ -1,1 +1,1 @@
-lmsysorg/sglang-rocm:qwen38flashnext
+lmsysorg/sglang:dev-qwen38-next-local
