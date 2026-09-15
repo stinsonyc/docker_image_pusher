@@ -1,1 +1,1 @@
-lmsysorg/sglang:dev-qwen38-next-local
+localinferencelab/vllm:jovian-judgement-community-20260914-r38
