@@ -1,1 +1,1 @@
-localinferencelab/vllm:jovian-judgement-community-20260914-r38
+lmsysorg/sglang:latest
